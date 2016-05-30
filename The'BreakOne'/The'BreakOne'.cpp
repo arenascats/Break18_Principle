@@ -23,7 +23,8 @@ int main()
 		if (OkLine == "ok")
 		{
 			cout << endl << "You ok,Im ok too :>";
-			return;
+			system("pause");
+			return 0;
 		}
 		printf("Please enter your name and type ok:");
 		std::cin >> YourName;
@@ -34,7 +35,8 @@ int main()
 		if (OkLine == "ok")
 		{
 			cout << endl << "You ok,Im ok too :>";
-			return;
+			system("pause");
+			return 0;
 		}
 		printf("Please enter your name and type ok:");
 		std::cin >> YourName;
@@ -45,7 +47,8 @@ int main()
 		if (OkLine == "ok")
 		{
 			cout << endl << "You ok,Im ok too :>";
-			return;
+			system("pause");
+			return 0;
 		}
 		system("pause");
 	//thr end of 1.
