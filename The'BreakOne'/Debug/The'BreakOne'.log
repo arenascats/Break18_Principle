@@ -1,2 +1,4 @@
 ﻿  The'BreakOne'.cpp
+c:\users\farell\documents\visual studio 2015\projects\the'breakone'\the'breakone'\the'breakone'.cpp(10): warning C4005: “ERROR”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(114): note: 参见“ERROR”的前一个定义
   The'BreakOne'.vcxproj -> C:\Users\Farell\documents\visual studio 2015\Projects\The'BreakOne'\Debug\The'BreakOne'.exe
